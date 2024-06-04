@@ -1,1 +1,1 @@
-Detecting Anomalies using LSTM autoencoder
+Detecting Anomalies in cpu usage using LSTM autoencoder 
